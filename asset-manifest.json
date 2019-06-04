@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-raid-map/static/css/main.be5e1ee0.chunk.css",
+    "main.js": "/simple-raid-map/static/js/main.9fc8bd4a.chunk.js",
+    "main.js.map": "/simple-raid-map/static/js/main.9fc8bd4a.chunk.js.map",
+    "runtime~main.js": "/simple-raid-map/static/js/runtime~main.b36f25bd.js",
+    "runtime~main.js.map": "/simple-raid-map/static/js/runtime~main.b36f25bd.js.map",
+    "static/js/2.dd2b83b9.chunk.js": "/simple-raid-map/static/js/2.dd2b83b9.chunk.js",
+    "static/js/2.dd2b83b9.chunk.js.map": "/simple-raid-map/static/js/2.dd2b83b9.chunk.js.map",
+    "index.html": "/simple-raid-map/index.html",
+    "precache-manifest.e0e0cbdf470df7378b73a14c39ad7e5e.js": "/simple-raid-map/precache-manifest.e0e0cbdf470df7378b73a14c39ad7e5e.js",
+    "service-worker.js": "/simple-raid-map/service-worker.js",
+    "static/css/main.be5e1ee0.chunk.css.map": "/simple-raid-map/static/css/main.be5e1ee0.chunk.css.map"
+  }
+}

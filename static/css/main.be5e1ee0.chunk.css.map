@@ -1,0 +1,1 @@
+{"version":3,"sources":["block.css"],"names":[],"mappings":"AAAA,QACC,WAAY,CACZ,UAAW,CACX,qBACD","file":"main.be5e1ee0.chunk.css","sourcesContent":[".square {\r\n\theight: 20px;\r\n\twidth: 20px;\r\n\tborder: 1px solid black;\r\n}\r\n"]}
